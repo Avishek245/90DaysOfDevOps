@@ -210,11 +210,3 @@ Place your screenshots in the `day-13/screenshots/` folder (create the folder if
 | 8 | `08-lvm-pvdisplay-lvs.png` | pvdisplay and lvs output |
 | 9 | `09-mount-success-lsblk.png` | mkfs, mount, and lsblk with /mnt/app_data |
 | 10 | `10-lvextend-resize2fs.png` | lvextend +200M, resize2fs, df -h |
-
-If you use different filenames (e.g. `Screenshot (119).png`), update the image paths in this file to match.
-
----
-
-
-
-#90DaysOfDevOps #DevOpsKaJosh #TrainWithShubham
