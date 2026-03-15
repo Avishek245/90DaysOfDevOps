@@ -1,0 +1,12 @@
+{
+  "name": "day-35",
+  "version": "1.0.0",
+  "description": "Today's goal is to **build optimized images and share them with the world**.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
