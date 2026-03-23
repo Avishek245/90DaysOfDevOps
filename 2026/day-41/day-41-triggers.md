@@ -159,3 +159,7 @@ Difference between fail-fast true vs false
 Today I moved from basic CI to multi-environment testing strategy.
 
 Matrix builds are extremely powerful and used in real-world production pipelines.
+
+### Screenshot 
+
+![alt text](<Screenshot (413).png>) ![alt text](<Screenshot (407).png>) ![alt text](<Screenshot (408).png>) ![alt text](<Screenshot (409).png>) ![alt text](<Screenshot (410).png>) ![alt text](<Screenshot (411).png>) ![alt text](<Screenshot (412).png>)
