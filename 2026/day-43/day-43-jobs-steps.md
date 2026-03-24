@@ -247,5 +247,3 @@ Build dynamic, production-style pipelines
 
 This is real CI/CD orchestration.
 
-Screenshots: 
-c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (426).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (427).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (428).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (429).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (430).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (431).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (432).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (433).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (424).png c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot (425).png
