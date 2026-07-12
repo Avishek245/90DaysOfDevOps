@@ -25,3 +25,6 @@ Line 3
 ---
 
 Save this file as `2026/day-06/file-io-practice.md` and commit it to your fork.
+
+### screenshot 
+![alt text](image.png)
