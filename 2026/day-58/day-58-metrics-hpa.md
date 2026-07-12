@@ -7,7 +7,6 @@ Learn how to install the Kubernetes Metrics Server and configure a Horizontal Po
 ---
 
 # Environment
-
 - Kubernetes: Kind Cluster
 - Kubernetes Version: v1.35.0
 - OS: Windows
